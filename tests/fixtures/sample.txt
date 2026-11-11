@@ -1,0 +1,5 @@
+FastAPI is a modern Python web framework used to build APIs.
+
+Docker is a platform for developing, shipping, and running applications inside containers.
+
+Kubernetes is an open-source container orchestration platform.
